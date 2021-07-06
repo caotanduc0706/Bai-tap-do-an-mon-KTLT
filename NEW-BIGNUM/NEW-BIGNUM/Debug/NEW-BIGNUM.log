@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\TanDuc\source\repos\NEW-BIGNUM\NEW-BIGNUM\Source.cpp(102,64): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TanDuc\source\repos\NEW-BIGNUM\NEW-BIGNUM\Source.cpp(267,27): warning C4018: '<': signed/unsigned mismatch
+  NEW-BIGNUM.vcxproj -> C:\Users\TanDuc\source\repos\NEW-BIGNUM\Debug\NEW-BIGNUM.exe
